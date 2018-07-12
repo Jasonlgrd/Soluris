@@ -1,5 +1,5 @@
 <?php
-$bdd = new PDO('mysql:host=jasonlagcp1.mysql.db;dbname=jasonlagcp1;charset=utf8', 'jasonlagcp1', 'Jason17240');
+$bdd = new PDO('mysql:host=localhost;dbname=soluris;charset=utf8', 'root', 'root');
 $reponse = $bdd->query("SELECT DISTINCT Equipe FROM Soluris");
 $reponse2 = $bdd->query("SELECT DISTINCT `Type de problème` FROM Soluris");
 $liste1_TPD = array();

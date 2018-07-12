@@ -1,6 +1,6 @@
 <?php
 
-$connexion = mysqli_connect("jasonlagcp1.mysql.db","jasonlagcp1","Jason17240","	jasonlagcp1");
+$connexion = mysqli_connect("localhost","root","root","soluris");
 $connexion->query("TRUNCATE TABLE Soluris");
 
 $importation=0;
@@ -127,7 +127,7 @@ if ($importation==1) {
 
 		$cpt++;
 		//echo $cpt;
-		$db = mysqli_connect("jasonlagcp1.mysql.db","jasonlagcp1","Jason17240","jasonlagcp1");
+		$db = mysqli_connect("localhost","root","root","soluris");
 		if ($cpt>5) {
 
 			//CONVERSTION EN DATE

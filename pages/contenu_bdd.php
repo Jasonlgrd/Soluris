@@ -1,8 +1,8 @@
 <?php
 
-$bdd = new PDO('mysql:host=jasonlagcp1.mysql.db;dbname=jasonlagcp1;charset=utf8', 'jasonlagcp1', 'Jason17240');
+$bdd = new PDO('mysql:host=localhost;dbname=soluris;charset=utf8', 'root', 'root');
 
-$reponse = $bdd->query("SELECT * FROM TECHNIQUE");
+$reponse = $bdd->query("SELECT * FROM Soluris");
 
 $compteur = 0;
 
