@@ -1,0 +1,51 @@
+*{
+	margin: 0;
+}
+a{
+	cursor: pointer;
+}
+/*----------------------*/
+/*      HEADER          */
+/*----------------------*/
+header{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+nav{
+	background-color: rgb(87,144,185);
+}
+nav>div>ul>li>a{
+	color: white;
+}
+nav>div>ul>li:hover{
+	background-color: rgb(107,164,205);
+}
+/*----------------------*/
+/*      CORPS          */
+/*----------------------*/
+.corps{
+	background-color: rgb(239,241,245);
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+
+table{
+    border-collapse: collapse;
+}
+
+td, th{
+    border: 1px solid black;
+}
+
+/*----------------------*/
+/*      FOOTER          */
+/*----------------------*/
+footer{
+	background-color: rgb(52,60,58);
+	color: white;
+	padding: 60px;
+}
+.center{
+	margin: auto;
+}

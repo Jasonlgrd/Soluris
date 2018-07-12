@@ -1,0 +1,1 @@
+<h2>Bonjour et bienvenue sur le générateur de graphique de Soluris</h2>

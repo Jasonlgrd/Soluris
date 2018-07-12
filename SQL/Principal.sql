@@ -1,0 +1,30 @@
+/*METTRE EN NOM DE BASE DE DONNES "Principal" ET INTERCLASSEMENT "utf-8"*/
+
+CREATE TABLE IF NOT EXISTS `TECHNIQUE` (
+  `Niv.` int(11) NOT NULL,
+  `Site` longtext NOT NULL,
+  `Demandeur` varchar(255) NOT NULL,
+  `Tél. demandeur` varchar(255) NOT NULL,
+  `Date d'appel` varchar(255) NOT NULL,
+  `Type de problème` longtext NOT NULL,
+  `Intervenant` varchar(255) NOT NULL,
+  `Symptôme` longtext NOT NULL,
+  `Sévérité` longtext NOT NULL,
+  `Niveau de blocage` varchar(255) NOT NULL,
+  `Equipe` varchar(255) NOT NULL,
+  `Priorité` varchar(255) NOT NULL,
+  `Date de fin prévue` varchar(255) NOT NULL,
+  `Service` varchar(255) NOT NULL,
+  `Statut Appel` varchar(255) NOT NULL,
+  `Date de cloture` varchar(255) NOT NULL,
+  `Intervenant clôture` varchar(255) NOT NULL,
+  `Solution` longtext NOT NULL,
+  `Date planifiée d'installation` longtext NOT NULL,
+  `Origine de la demande` varchar(255) NOT NULL,
+  `Assistant` varchar(255) NOT NULL,
+  `Code barre` varchar(255) NOT NULL,
+  `N° de série` varchar(255) NOT NULL,
+  `Référence` varchar(255) NOT NULL,
+  `N° d'appel` int(11) NOT NULL,
+  `Dernière modification` varchar(255) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
