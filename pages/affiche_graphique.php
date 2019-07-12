@@ -115,9 +115,9 @@ if (isset($_POST['SelectStat'])) {
 /*---------------------------------------------------------------------------*/
 /*                                      REQUETE                              */
 /*---------------------------------------------------------------------------*/
-$connexion = mysqli_connect("localhost","root","root","soluris");
+$connexion = mysqli_connect("mysql.hostinger.fr","u229681528_solur","jason17240","u229681528_solur");
 $requete = mysqli_query($connexion,"SET character_set_results = 'utf8', character_set_client = 'utf8', character_set_connection = 'utf8', character_set_database = 'utf8', character_set_server = 'utf8'");
-$requetesql="SELECT Site,`Date d'appel`,`Type de problème`,Equipe FROM Soluris WHERE $date_debut AND $date_fin $site $equipe $type_de_probleme";
+$requetesql="SELECT Site,`Date d'appel`,`Type de problème`,Equipe FROM TECHNIQUE WHERE $date_debut AND $date_fin $site $equipe $type_de_probleme";
 $requete = mysqli_query($connexion,$requetesql);
 echo $ListeRequete;
 /*---------------------------------------------------------------------------*/

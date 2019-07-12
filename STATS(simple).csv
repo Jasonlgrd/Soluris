@@ -1,0 +1,423 @@
+Nb total :;50021;Non affecté;101;Ouvert;47;En cours;9;;;;;;;;;;;;;;;;;;
+;;Clos;49864;Réouvert;0;Non maintenu;0;;;;;;;;;;;;;;;;;;
+15/05/2017 14:35;Bloc-O;;;;;;;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;;;;;;;;
+Niv.;Site;Demandeur;Tél. demandeur;(<) Date d'appel;Type de problème;Intervenant;Symptôme;Sévérité;Niveau de blocage;Equipe;Priorité;Date de fin prévue;Service;Statut Appel;Date de cloture;Intervenant clôture;Solution;Date planifiée d'installation;Origine de la demande;Assistant;Code barre;N° de série;Référence;N° d'appel;Dernière modification
+;C.D.A./C.D.C.\CDC AUNIS SUD (Surgères);BOUSSION Marc;05.46.07.72.61;02/01/2015 08:54:47;LOG\Comptabilité\CIVIL NET FINANCES;BIBARD Alexandra;"Pouvez-vous insérer ce logo sur les bons de commande émis pour le CIAS Aunis Sud ? De même, pouvez-vous indiquer pour les bons de commande du CIAS "" adresser la facture en 2 exemplaires à Monsieur le Président du CIAS Aunis Sud "" ?
+Merci d'avance.
+Cordialement
+Marc Boussion 
+Chef du service finances CDC Aunis Sud
+05 46 07 72 61
+";;1 - Simple;LOGICIELS;ATNORMAL;07/01/2015 10:24:47;;Clos;02/01/2015 12:39:57;BIBARD Alexandra;"Sylvain, le 02/01 à 08h55 : transfert du mail avec la piève jointe à l'équipe ciril.
+
+ABI le 02/01 à 11h39 : Je préviens M.Boussion que j'en reparle avec DG lundi matin car c'est elle qui est intervenu pour le logo de la CDC . On regarde avec ML sur serveur , je le préviens qu'on se connecte sur serveur
+
+Modif faite par ML sur serveur .Enregistrement du logo , modification exemplaires , test M.Boussion OK";1;mail;SYLVAIN;;;;185065;02/01/2015 12:39:57
+;V\VAUX SUR MER;QUINQUETTE Céline;05.46.23.53.06;02/01/2015 08:57:56;LOG\Comptabilité\COSOLUCE CORAIL (compta)\Besoin LOGICIEL;BIBARD Alexandra;"LUNDI 05/01je viens de créer mon nouvel exercice sauf que 2 Autorisations de programme avaient injustement disparue (en fait en 2014, il était indiquée qu'elles se terminaient au 31/12/2014 ... grosse erreur !)
+
+comment puis je re-créer l'exercice 2015
+
+
+ABI le 02/01 à 9h42 : Mme Quinquette absente aujourd'hui , sera là lundi";;1 - Simple;LOGICIELS;ATNORMAL;07/01/2015 10:27:56;;Clos;05/01/2015 09:54:09;BIBARD Alexandra;"Aller dans Nomenclatures/Opérations d'équipement enlever filtre et enlever date de fin
+Ne pas recréer 2015 !
+";1;mail;SYLVAIN;;;;185066;05/01/2015 09:54:09
+;M\MESCHERS SUR GIRONDE;SIMON Alain;05.46.02.64.44;02/01/2015 09:11:05;STANDARD;LETOURNEUX Pierre;Complément d'information;;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;07/01/2015 10:41:05;;Clos;02/01/2015 09:11:42;LETOURNEUX Pierre;>> Noté dans l'appel père;1;téléphone;PIER;;;;185067;02/01/2015 09:11:42
+;C.D.A./C.D.C.\CDC VALS DE SAINTONGE;GIRAUD-HERAUD Emmanuelle;05.46.33.24.77;02/01/2015 09:23:59;LOG\Urbanisme\OXALIS\Technique;DELAGE Stéphanie;"Stéphanie, bonjour,
+Antoine PRAUD a chaque jour des difficultés à se connecter sur la plateforme OXALIS et ce depuis le 18 décembre.
+Merci de faire le nécessaire rapidement pour que tout soit opérationnel.
+Bonne Année 2015 à vous. A bientôt.
+-- 
+Corinne NEZEREAU
+Service Droit des Sols ¿ Instructeur
+Tél. 05 46 33 24 77
+www.valsdesaintonge.fr";;1 - Simple;LOGICIELS;ATNORMAL;07/01/2015 10:53:59;;Clos;07/01/2015 10:54:10;DELAGE Stéphanie;"ON 02 01 : Impossible de les appeler (standard ne répond pas et pas possible de laisser un message)
+
+Ok, pas de pb ce matin.
+certainement u pb lié à Avast. je lui demande de faire le pointt avec leur informaticien concernant la politique de déploiement des anti virus sur les postes.";1;mail;PIER;;;;185068;07/01/2015 10:54:10
+;V\VINAX;PETIT Karine;05 46 33 64 88;02/01/2015 09:25:57;LOG\Sauvegarde;LETOURNEUX Pierre;"Bonjour,
+J'ai eu le message suivant lors d'une mise à jour du logiciel Parme :"" attention les sauvegardes automatiques ne s¿exécutent pas correctement. Veuillez contacter votre support technique"".
+Merci de me dire ce qu'il faut faire.
+Cordialement,
+-- 
+Karine Petit
+Secrétariat de la mairie de Vinax
+Mardi de 14h à 18h30
+Vendredi de 9h à 12h30";;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;07/01/2015 10:55:57;;Clos;02/01/2015 09:29:30;LETOURNEUX Pierre;"Pierre 02/01 09H28:
+>> Je lui indique comment regénérer les auvegardes
+>> Ok";1;mail;PIER;;;;185069;02/01/2015 09:29:30
+;M\MATHA;BENOIT Béatrice;05.46.58.50.64;02/01/2015 09:42:34;LOG\Mise à jour\Cosoluce N° Licence;TOURNEUR Sylvain;Un message indique une erreur sur le 2ème zone.;;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;07/01/2015 11:12:34;;Clos;02/01/2015 09:47:36;TOURNEUR Sylvain;Sylvain, le 02/01 à 09h47 : regénération de la licence via le site support de cosoluce.;1;téléphone;SYLVAIN;;;;185070;02/01/2015 09:47:36
+;ST\ST SAVINIEN SUR CHARENTE;BOUTINAUD Paquita;05.46.90.20.03;02/01/2015 10:17:52;LOG\Administrés\COSOLUCE CYAN (Etat Civil);TOURNEUR Sylvain;Elle ne peut pas rentrer la ville et la pays.;;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;07/01/2015 11:47:52;;Clos;02/01/2015 10:19:19;TOURNEUR Sylvain;Sylvain, le 02/01 à 10h19 : il faut mettre 99999 dans le CP.;1;téléphone;SYLVAIN;;;;185071;02/01/2015 10:19:19
+;G\GEMOZAC;AGUADO Géraldine;05.46.94.20.35;02/01/2015 10:19:04;MAT\Périph.\RESEAU;LETOURNEUX Pierre;Appel car personne n'a accès au réseau;;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;07/01/2015 11:49:04;;Clos;02/01/2015 10:20:03;LETOURNEUX Pierre;">> Je pense que l'onduleur de l'armoire de brassage est déchargé
+>> Elle va tenter de trouver une multiprise et nous tiens informé
+>> Ok";1;téléphone;PIER;;;;185072;02/01/2015 10:20:04
+;STE\STE SOULLE;NAUJOKS Stéphanie;05.46.37.96.73;02/01/2015 10:20:18;MAT\U.C.;LETOURNEUX Pierre;"Bonjour Madame, Monsieur,
+Bonne année et bonne santé à vous qui allait lire ce message...
+Je prends contact avec vous , vous êtes passé nous installer un nouveau poste info en service compta et avons eu une importante coupure d'électricité sur la commune le 01/02/2015 et ce matin cet ordi qui date de novembre 2014 ne veut pas démarrer.
+J'ai donc tout débranché et tout rebranché à plusieurs reprises et toujours rien ne démarre : l'onduleur qui couvre les 2 postes en info en service compta fonctionne puisque mon ordi s'est allumé directement sans difficultés aucune.
+QUE FAIRE DE PLUS ????
+MERCI, dans l'attente de vous lire,
+Mme Stéphanie NAUJOKS,
+Service comptabilité
+mairie de Ste-Soulle
+39 rue de l'Aunis
+17290 SAINTE-SOULLE
+tél ligne directe  : 05 46 37 96 73";;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;07/01/2015 11:50:18;;Clos;02/01/2015 11:34:37;LETOURNEUX Pierre;"Pierre 02/01 11H34:
+>> A trouvé d'ou venait le problème, il s'agissait de l'écran
+>> Elle a trouvé un autre écran pour se dépanner
+>> Ok";1;mail;PIER;;;;185073;02/01/2015 11:34:37
+;ST\ST MARD;SANTOLINI Bernadette;05.46.68.88.58;02/01/2015 10:21:24;LOG\Environnement\COSOLUCE NUANCE;LETOURNEUX Pierre;"Bonjour,
+Je ne peux pas travailler dans CYAN , message ""erreur d'exception lors de la connexion.....""
+A bientôt et meilleurs voeux pour 2015.
+Cordialement
+-- 
+Bernadette SANTOLINI
+Mairie de SAINT-MARD
+Tél : 05 46 68 88 58
+Fax : 05 46 68 88 66";;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;07/01/2015 11:51:24;;Clos;02/01/2015 14:08:33;LETOURNEUX Pierre;"Pierre 02/01 11H41:
+>> Je lance le telechargement du cd 4.2
+>> Elle nous rappel
+
+Pierre 02/01 14H08:
+>> Installation de la màj 4.2 réalisé avec succès
+>> Test-> OK";1;mail;PIER;;;;185074;02/01/2015 14:08:33
+;A\AYTRE;GRIMAUD Fanny;05.46.30.18.01;02/01/2015 10:29:08;LOG\Environnement\COSOLUCE NUANCE;TOURNEUR Sylvain;Message indiquant un problème avec les grandes police;;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;07/01/2015 11:59:08;;Clos;02/01/2015 10:37:33;TOURNEUR Sylvain;"Sylvain, le 02/01 à 10h32 : modification taille de l'affichage.
+Autre message d'erreur, je m'aperçois que nuance est en en version 4.0, il faut faire la mise à jour en 4.1 puis en 4.2
+";1;téléphone;SYLVAIN;;;;185075;02/01/2015 10:37:34
+;A\ANGOULINS SUR MER;COELHO Céline;05.46.56.61.42;02/01/2015 10:30:37;LOG\Environnement\COSOLUCE NUANCE;LETOURNEUX Pierre;Appel suite à la livraison d'un poste de prêt, elle ne peut pas accèder à Nuance (erreur image incorrect);;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;07/01/2015 12:00:37;;Clos;02/01/2015 10:44:37;LETOURNEUX Pierre;">> Réparation
+>> Test-> Ok";1;téléphone;PIER;;;;185076;02/01/2015 10:44:37
+;P\PORTES EN RE (LES);HERAUDEAU Maryline;05 46 29 11 55;02/01/2015 10:38:39;LOG\Mise à jour\Cosoluce install majeure;TOURNEUR Sylvain;Elle a un problème lors de l'installation, un message windows qui indique qu'il ne peut pas faire la mise à jour.;;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;07/01/2015 12:08:39;;Clos;02/01/2015 10:47:31;TOURNEUR Sylvain;Sylvain, le 02/01 à 10h39 : fait redémarre le poste er relancer la mise à jour : ok;1;téléphone;SYLVAIN;;;;185077;02/01/2015 10:47:31
+;B\BALANZAC (Internet au Sivos);PERISSE Sylvie;05.46.94.72.30;02/01/2015 10:48:22;LOG\Bureautique\WORD;LE NOUEN Julien;"05/01.
+elle a encore un problème avec word qui bloque le pc quand elle veut modifier un document.";;1 - Simple;TECHNIQUE;ATNORMAL;07/01/2015 12:18:22;;Clos;05/01/2015 15:44:48;LE NOUEN Julien;"Sylvain, le 02/01 à 10h50 : test en créant un nouvau document word : même symptôme
+winword /a : même problème
+Problème récurrent qui c'est aggravé, voir peut être pour réinstaller word.
+jln le 05/01/2015 @ 15.44 : modification document word renregistrement ok
+cloture.";1;téléphone;SYLVAIN;;CZC4104S6V;HP_PRODESK_490_G1;185078;05/01/2015 15:44:48
+;G\GEMOZAC;AGUADO Géraldine;05.46.94.20.35;02/01/2015 10:58:31;MAT\U.C.;TOURNEUR Sylvain;"Suite à l'appel 185072, ils ont branché sur des prises directes ce qui été branché sur l'onduleur qui n'a plus de voyant. 
+Mais le serveur n'est toujours pas lancé.";;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;07/01/2015 12:28:31;;Clos;02/01/2015 11:19:50;TOURNEUR Sylvain;"Sylvain, le 02/01 à 11h00 : fait enlever la k7 de sauvegarde su serveur et fait redémarrer le serveur : ok
+";1;téléphone;SYLVAIN;;;;185081;02/01/2015 11:19:50
+;A\AYTRE;GRIMAUD Fanny;05.46.30.18.01;02/01/2015 11:15:29;LOG\Environnement\COSOLUCE NUANCE;LETOURNEUX Pierre;"Suite appel 185075
+Elle a retrouvé le cd 4.0";;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;07/01/2015 14:15:29;;Clos;02/01/2015 11:16:55;LETOURNEUX Pierre;">> Installation impossible de la 4.0 etant donné que le serveur est en 4.2
+>> Désinstallation de Cosoluce sur le poste client
+>> Réinstallation en 4.2
+>> Test-> Ok";1;téléphone;PIER;;;;185079;02/01/2015 11:16:56
+;S\SALIGNAC SUR CHARENTE;CHALLANT Cécile;05.46.96.43.04;02/01/2015 11:17:17;LOG\Environnement\COSOLUCE NUANCE;PIAUD Baptiste;"Bonjour et tous mes voeux pour 2015
+J'ai eu un message d'alerte concernant les sauvegardes automatiques; elles ne se font pas correctement
+D'autre par pour le chemin des sauvegardes est erroné
+Le PC s'éteint vers 17h 55 je n'ai pas le temps de fermer les applications, l'heure pour les sauvegardes devait être de nuit aux alentours de 22 h / 23h;
+Cordialement
+Cécile CHALLANT
+mAIRIE 17800 SALIGNAC SUR CHTE
+";;1 - Simple;TECHNIQUE;ATNORMAL;07/01/2015 14:17:17;;Clos;02/01/2015 14:23:39;PIAUD Baptiste;"Pierre 02/01 14H15:
+>> Il s'agit de la télésauvegarde et Pat.B est déjà intervenu
+
+bapt : c'etait dans cosoluce et non dans la telesauvegarde";1;mail;PIER;;;;185080;02/01/2015 14:23:39
+3;STE\STE SOULLE;NAUJOKS Stéphanie;05.46.37.96.73;02/01/2015 11:18:12;LOG\Facturation\COSOLUCE FLUO;DELAGE Stéphanie;"Bonjour madame monsieur,
+Tout d'abord, bonne année et bonne santé !
+Nous avons proposé aux abonnées du restaurant scolaire de la commune le mode de règlement des facture cantine par prélèvement automatique à partir de février 2015,
+Nous souhaitons donc prendre un rendez-vous maintenant avec vous pour nous aider informatiquement à mettre en place le système.
+Nous avons déjà environ 160 familles qui souhaitent le prélèvement automatique ... sur 350 familles. (les autres gardent le mode de paiement numéraire et chèques)
+J'ai donc demandé un ICS BDF, établi le nouveau règlement du restaurant scolaire, récolté tous les rib et les mandats SEPA signés, les adresses mél (car les factures seront envoyées par mél, pour être sûre que les abonnés aient leur facture avant le prélèvement pour en connaitre le montant et vérifier le contenu...)  et renseigné tout cela d";;1 - Simple;LOGICIELS;ATNORMAL;07/01/2015 14:18:12;;Clos;09/01/2015 15:20:02;DELAGE Stéphanie;"SD: rib pour prélèvement déjà saisis
+je lui montre comment affecter les code RUM
+rdv pris le 03.02 pour 1ére facturation prelevée";1;mail;PIER;;;;185082;09/01/2015 15:20:02
+;C\CHERAC;POMMERET Louisette;05.46.96.44.02;02/01/2015 11:46:06;LOG\Mise à jour\Cosoluce N° Licence;LETOURNEUX Pierre;Appel car son n° de license est incorrect;;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;07/01/2015 14:46:06;;Clos;02/01/2015 11:48:16;LETOURNEUX Pierre;">> Génération d'une nouvelle license
+>> Test-> Ok";1;téléphone;PIER;;;;185083;02/01/2015 11:48:17
+;F\FONTCOUVERTE;LE LAY Maryse (pas le jeudi);05.46.93.06.47;02/01/2015 11:54:26;LOG\Sauvegarde;LETOURNEUX Pierre;Appel car un message indique que les sauvegardes automatiquent ne s'executent pas correctement;;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;07/01/2015 14:54:26;;Clos;02/01/2015 11:55:28;LETOURNEUX Pierre;">> Je lui indique comment les regénérer
+>> Ok";1;répondeur;PIER;;;;185085;02/01/2015 11:55:29
+;AUTRES\ASA RESIDENCE DU PARC - LES MATHES;TARDIF Daniel;05.46.22.31.25;02/01/2015 11:57:30;LOG\Comptabilité\COSOLUCE AMBRE (Budget);BIBARD Alexandra;"Dans le budget, il a une erreur de 40000 ¿.
+
+";;1 - Simple;LOGICIELS;ATNORMAL;07/01/2015 14:57:30;;Clos;02/01/2015 14:12:44;BIBARD Alexandra;Réalisation du 001 002 : cf fiche FAQ;1;téléphone;SYLVAIN;;;;185086;02/01/2015 14:12:44
+;M\MARENNES;PILEVESSE Frankie;05.46.85.25.55;02/01/2015 12:15:43;LOG\Comptabilité\COSOLUCE CORAIL (compta)\Besoin METIER;BIBARD Alexandra;Elle a besoin du code maintenance pour faire un titre de remboursement d'avance de marché.;;1 - Simple;LOGICIELS;ATNORMAL;07/01/2015 15:15:43;;Clos;02/01/2015 14:16:12;BIBARD Alexandra;"Sylvain, le 02/01 à 12h28 : vu avec Alexandra.
+
+
+Il s'agit d'un titre d'ordre au 238 avec un mandat en face au 2313 , seulkement elle n'a pas les crédits au 041 : voit avec tréso
+Mais il faut passer par assistant , après avoir saisi DM : on revoit la procédure ensemble";1;téléphone;SYLVAIN;;;;185087;02/01/2015 14:16:12
+;ST\ST MARD;SANTOLINI Bernadette;05.46.68.88.58;02/01/2015 14:07:25;STANDARD;LETOURNEUX Pierre;Rappel comme convenu;;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;07/01/2015 15:37:25;;Clos;02/01/2015 14:07:52;LETOURNEUX Pierre;>> Je reprend l'appel père;1;téléphone;PIER;;;;185088;02/01/2015 14:07:52
+;J\JONZAC\Serv Ext/Antilles de Jonzac;DOUAT Olivier;05.46.48.04.11;02/01/2015 14:07:52;STANDARD;TOURNEUR Sylvain;Pour Olivier.;;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;22/01/2015 10:00:00;;Clos;02/01/2015 14:09:13;TOURNEUR Sylvain;Sylvain, le 02/01 à 14h08 : transfert de l'appel à Olivier.;1;téléphone;SYLVAIN;;;;185089;02/01/2015 14:09:32
+;D\DOMPIERRE SUR MER;LE GUILLOUX Claudie;05.46.35.59.03;02/01/2015 14:20:56;LOG\Administrés\LITTERA;LEBEAUPIN Marylene;Evoque un problème d'édition d'acte, la première lettre des prénoms est en minuscule au lieu de majuscule;;1 - Simple;LOGICIELS;ATNORMAL;07/01/2015 15:50:56;;Clos;02/01/2015 15:46:56;LEBEAUPIN Marylene;modif de l'acte ok;1;téléphone;PIER;;;;185090;02/01/2015 15:46:56
+;T\TREMBLADE (LA);DELCOURT Régine;05.46.36 99 07;02/01/2015 15:13:44;LOG\Facturation\COSOLUCE FLUO;LETOURNEUX Pierre;Appel car ne comprend pas car Fluo impose de choirsir un secteur à la création d'un nouveau redevable;;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;07/01/2015 16:43:44;;Clos;02/01/2015 15:53:19;LETOURNEUX Pierre;">> Elle avait créé un nouveau secteur au lieu de le modifier
+>> Ok";1;téléphone;PIER;;;;185093;02/01/2015 15:53:19
+;G\GEMOZAC;TAUNAY Francine;05.46.94.59.63;02/01/2015 15:25:27;LOG\Administrés\LITTERA;LEBEAUPIN Marylene;Elle enregistre un décès, et elle ne peut pas saisir le déclarant d'officier d'état civil.;;1 - Simple;LOGICIELS;ATNORMAL;07/01/2015 16:55:27;;Clos;02/01/2015 15:35:48;LEBEAUPIN Marylene;on quitte l'acte et on le refait ok;1;téléphone;SYLVAIN;;;;185091;02/01/2015 15:35:49
+;N\NANCRAS;LAURENT Gaëlle;05.46.94.70.75;02/01/2015 15:49:11;LOG\Administrés\COSOLUCE CYAN (Etat Civil);LEBEAUPIN Marylene;Elle a besoin de modifier un acte de mariage.;;1 - Simple;LOGICIELS;ATNORMAL;07/01/2015 17:19:11;;Clos;02/01/2015 15:54:27;LEBEAUPIN Marylene;regenerer l'acte et tout est ok;1;téléphone;SYLVAIN;;;;185092;02/01/2015 15:54:28
+;ST\ST GEORGES DE DIDONNE;BOURGOIN Cynthia;05.46.05.07.27;02/01/2015 16:15:28;LOG\Personnel\COSOLUCE PARME;LEPATRE Virginie;Elle a un problème avec des agents qui font 35 heures mais au moment de la paie, il manque des heures.;;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;08/01/2015 08:45:28;;Clos;05/01/2015 16:23:38;LEPATRE Virginie;VL: il faut noté le nombre d'heure et cocher ne pas proratiser selon les dates d'entrée et sortie;1;téléphone;SYLVAIN;;;;185094;05/01/2015 16:23:38
+;T\THEZAC;FAURE Maryse;;02/01/2015 16:22:01;LOG\Administrés\COSOLUCE ELECTRA;LEBEAUPIN Marylene;"liste complémentaire municipale et europeenne
+Merci de me rappeler
+Cordialement
+Maryse FAURE
+Secrétaire
+MAIRIE DE THEZAC
+2 rue de la mairie
+17600 THEZAC
+Tél : 05.46.94.82.37
+Fax : 05.46.94.85.61";;1 - Simple;LOGICIELS;ATNORMAL;08/01/2015 08:52:01;;Clos;02/01/2015 16:43:12;LEBEAUPIN Marylene;questions sur listes complémentaire ok ;1;mail;PIER;;;;185095;02/01/2015 16:43:12
+1;ST\ST ROMAIN SUR GIRONDE;DUVERT Corinne;05.46.49.90.99;05/01/2015 08:55:30;LOG\Administrés\COSOLUCE CYAN (Etat Civil);LEBEAUPIN Marylene;"Bonjour,
+Vous serait-il possible de m¿appeler jeudi matin prochain 08 janvier pour résoudre l¿impression de la table des décès 2014- jointe-
+Mentionnant deux fois le même décès ( MOTHAY )
+Avec mes remerciements,
+Cordialement,
+Corinne DUVERT- secrétaire
+Mairie de SAINT-ROMAIN SUR GIRONDE
+9, Rue Charlemagne
+17240 SAINT-ROMAIN SUR GIRONDE
+Tél-fax : 05 46 49 90 99
+Mairie ouverte le jeudi matin de 8h à 12h";;1 - Simple;LOGICIELS;ATNORMAL;08/01/2015 10:25:30;;Clos;08/01/2015 09:47:02;LEBEAUPIN Marylene;normal on les a deux fois;1;mail;PIER;;;;185096;08/01/2015 09:47:02
+1;ST\ST ROMAIN SUR GIRONDE;DUVERT Corinne;05.46.49.90.99;05/01/2015 08:58:08;LOG\Mise à jour;LETOURNEUX Pierre;"08/01 MAT
+Bonjour,
+Pour vous signaler que les messages de mise à jour mensuelle des logiciels n¿ont pas apparu comme d¿habitude¿.
+( En comparaison avec  Arces, des mises à jour ont été effectuées le 02/01)
+Pourrez-vous vérifier par télémaintenance jeudi prochain matin 08/01 ?
+Avec mes remerciements,
+Cordialement,
+Corinne DUVERT- secrétaire
+Mairie de SAINT-ROMAIN SUR GIRONDE
+9, Rue Charlemagne
+17240 SAINT-ROMAIN SUR GIRONDE
+Tél-fax : 05 46 49 90 99
+Mairie ouverte le jeudi matin de 8h à 12h
+
+Sylvain, le 08/01 à 10h05 : fax";;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;08/01/2015 10:28:08;;Clos;08/01/2015 10:16:00;LETOURNEUX Pierre;"Pierre 08/01 10H15:
+>> Je lance les màj via Nuance
+>> Je lui indique la marche à suivre
+>> Ok";1;mail;PIER;;;;185097;08/01/2015 10:16:00
+;ST\ST PIERRE D'AMILLY;BERTHOU Chantal;05.46.27.90.56;05/01/2015 09:02:18;LOG\Sauvegarde;LETOURNEUX Pierre;Appel car un message d'alerte apparait au lancement des logiciels cosoluce;;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;08/01/2015 10:32:18;;Clos;05/01/2015 09:03:03;LETOURNEUX Pierre;">> Regénération des sauvegardes
+>> Ok";1;téléphone;PIER;;;;185098;05/01/2015 09:03:03
+;B\BEAUVAIS SUR MATHA;FERDONNET Isabelle;05.46.26.10.59;05/01/2015 09:03:49;LOG\Sauvegarde;LETOURNEUX Pierre;"Bonjour,
+à l¿ouverture de CORAIL  ou bien de FLUO j¿ai le message suivant ¿ les sauvegardes automatiques de s¿exécutent pas correctement , contacter service technique¿
+vous pouvez me joindre de 9 h à 12 h  ou de 14 h à 17 h
+Merci d¿avance
+Isabelle FERDONNET
+MAIRIE de BEAUVAIS SUR MATHA
+05 46 26 10 59";;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;08/01/2015 10:33:49;;Clos;05/01/2015 09:26:41;LETOURNEUX Pierre;"Pierre 05/01 09H26:
+>> Regénération des sauvegardes
+>> Ok";1;mail;PIER;;;;185099;05/01/2015 09:26:41
+;N\NACHAMPS;TOUZEAU Sylvie;05.46.59.76.10;05/01/2015 09:04:31;LOG\Sauvegarde\COSOLUCE;PIAUD Baptiste;"**MARDI MATIN**Bonjour et mes meilleurs voeux,
+Lorsque j'ai mis en route cosoluce, plusieurs mises à jour m'ont été demandées.
+A la fin j'ai le message ""la sauvegarde automatique ne s'est pas effectuée correctement. Veuillez contacter votre support technique""
+Je suis à la mairie lundi, mardi mercredi et vendredi de 8 H à 12 H 30
+Cordialement
+la secrétaire
+Sylvie TOUZEAU
+
+Pierre 05/01 09H28: Occupé";;1 - Simple;TECHNIQUE;ATNORMAL;08/01/2015 10:34:31;;Clos;06/01/2015 09:54:14;PIAUD Baptiste;"jln le 05/01/2015 @ 15.39 : personne
+
+bapt: elle a fait la manipulation envoyer par mail et ca a marcher";1;mail;PIER;;;;185100;06/01/2015 09:54:14
+;ST\ST SULPICE D'ARNOULT ;MOUSSET Nathalie;05.46.97.02.11;05/01/2015 09:07:17;LOG\Sauvegarde;LETOURNEUX Pierre;"Bonjour et tous mex voeux pour 2015
+Un message s'est affiché lors de l'ouverture de Nuance
+""attention les sauvegarde automatiques ne s'exécutent pas correctement,
+veuillez contracter votre support technique""
+De plus, depuis quelques jours lorsque j'ouvre Nuance un message me demande si je veux
+autoriser le programme à apporter des modifications à l'ordinateur
+La même chose se produit lorsque je vais sur internet (Java)
+Je ne suis pas en mairie les lundi après midi et mercredi
+En l'attente de votre réponse
+Cordialement
+N. Mousset
+Mairie de Saint-Sulpice d'Arnoult
+7 route de l'Ecole
+17250 Saint-Sulpice d'Arnoult
+Tel 05 46 97 02 11
+Fax 05 46 97 16 36";;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;08/01/2015 10:37:17;;Clos;05/01/2015 09:46:04;LETOURNEUX Pierre;"Pierre 05/01 09H44:
+>> Regénération des sauvegardes
+>> Désactivation du controle de compte utilisateur
+>> Ok";1;mail;PIER;;;;185101;05/01/2015 09:46:04
+;A\ARVERT;BRISTAULT Christine;05.46.36.40.36;05/01/2015 09:08:19;LOG\Administrés\COSOLUCE ELECTRA;LEBEAUPIN Marylene;"Sa collègue a saisie des personnes mais elle ne les voit pas dans la liste de demande d'inscription.
+Elle les a mis dans la gestion des listes électorale.";;1 - Simple;LOGICIELS;ATNORMAL;08/01/2015 10:38:19;;Clos;05/01/2015 11:02:18;LEBEAUPIN Marylene;supprimer les electeurs de la liste electorale et les saisir en demandes d'inscription;1;téléphone;SYLVAIN;;;;185103;05/01/2015 11:02:18
+3;SYNDICAT\SYND MIXTE DU PARC NATUREL REGIONAL DU MARAIS POITEVIN ;SENE Christophe;05.49.35.15.23;05/01/2015 09:08:39;LOG\Comptabilité\COSOLUCE CORAIL (compta)\PESV2\Production\Démat PJ;BIBARD Alexandra;"bonjour
+ci-joint une information concernant les sauvegardes ,
+j'espère que ne n'est pas trop grave
+bonne journée
+cordialement
+
+Message: Attention, problème au niveau des sauvegardes.
+Erreur d'intégrité des fichier ZIP
+D:\cosoluce\donnees\sauvegardedonnees_corail_vendredi.zip
+Veuillez contacter votre support technique";;1 - Simple;LOGICIELS;ATNORMAL;08/01/2015 10:38:39;;Clos;19/01/2015 15:44:32;BIBARD Alexandra;"Sylvain, le 07/01 à 15h23 : vu avec Virginie L et Alexandra.
+Problème lié au PJ qui prennent trop de place.
+Faire un mail à Coso le 12/01 à 10h30Bonjour Alexandra,
+Nous avons avec la majeure 4.2 et les derniers SP fait évoluer nos sauvegardes dans leurs fonctionnalités et les vérifications liées à l'intégrité des données.
+Dès la majeure, pour la partie fonctionnelle, les sauvegardes différentielles permettent à partir d'une sauvegarde complète d'ajouter d'autres sauvegardes qui elles intègrent le delta (sachant qu'une sauvegarde complète est réalisée tous les mois) (gain d'espace et de temps durant les sauvegardes) 
+A également été ajouté un suivi des sauvegardes consultables sur le poste principal (Monoposte ou Serveur) via le logiciel "" Utilisateurs "" et la "" Gestion étendue des sauvegardes "" (SP suivant)
+Ce";1;mail;PIER;;;;185102;19/01/2015 15:44:32
+;E\ECHILLAIS;MORIN Mélanie;05.46.83.62.10;05/01/2015 09:11:30;LOG\Administrés\COSOLUCE CYAN (Etat Civil);TOURNEUR Sylvain;Elle a un message d'erreur en ouvrant cyan.;;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;08/01/2015 10:41:30;;Clos;05/01/2015 09:17:07;TOURNEUR Sylvain;Sylvain, le 05/01 à 09h16 : la mise à jour de cyan en 4.2 n'a pas été effectué.;1;téléphone;SYLVAIN;;;;185105;05/01/2015 09:17:07
+;M\MONTENDRE;RAFFENAUD Chantal;05.46.49.20.84;05/01/2015 09:13:06;LOG\Administrés\COSOLUCE ELECTRA;LEBEAUPIN Marylene;Appel car un electeur n'a pas été pris en compte lors de la numérotation, celui-ci a changé de bureau en cours d'année;;1 - Simple;LOGICIELS;ATNORMAL;08/01/2015 10:43:06;;Clos;05/01/2015 11:12:47;LEBEAUPIN Marylene;annulation de la numérotation et modif de la date d'inscription de la personne;1;téléphone;PIER;;;;185104;05/01/2015 11:12:47
+;ST\ST XANDRE\Mairie/C.C.A.S. - Secrétariat;BRUMAUD Dominique  CCAS;05 46 37 27 05;05/01/2015 09:17:59;LOG\Mise à jour\Cosoluce N° Licence;LEPATRE Virginie;mauvais numéro de licence 2 eme case;Grand Site;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;08/01/2015 10:47:59;;Clos;05/01/2015 09:19:36;LEPATRE Virginie;VL: nouvelle licence crée avec bon identifiant installation;1;téléphone;VIRGINIE;;;;185106;05/01/2015 09:19:36
+;R\ROUFFIGNAC;PERODEAU Jean-Claude;05.46.49.44.64;05/01/2015 09:20:09;STANDARD;LEPATRE Virginie;mr le maire demande vincent;;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;08/01/2015 10:50:09;;Clos;05/01/2015 09:21:05;LEPATRE Virginie;VL: passé à vincent;1;téléphone;VIRGINIE;;;;185107;05/01/2015 09:21:05
+;ST\ST XANDRE\Mairie/C.C.A.S. - Secrétariat;BRUMAUD Dominique  CCAS;05 46 37 27 05;05/01/2015 09:21:41;LOG\Environnement\COSOLUCE NUANCE;LEPATRE Virginie;problème sauvegarde auto;Grand Site;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;08/01/2015 10:51:41;;Clos;05/01/2015 09:30:18;LEPATRE Virginie;VL: regénérer tester;1;téléphone;VIRGINIE;;;;185109;05/01/2015 09:30:18
+;STE\STE GEMME ;FAROU Aurélie;05.46.94.71.51;05/01/2015 09:29:29;LOG\Mise à jour\Cosoluce N° Licence;TOURNEUR Sylvain;Un message indique un problème avec la deuxième zone.;;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;08/01/2015 10:59:29;;Clos;05/01/2015 09:32:47;TOURNEUR Sylvain;Sylvain, le 05/01 à 09h32 : regénération de la licence via le site support de cosoluce.;1;téléphone;SYLVAIN;;;;185111;05/01/2015 09:32:47
+;SIVOM/SIVOS/SIVU\SIVOS ST CLEMENT/LES PORTES;ALIZARD Audrey;05.46.29.42.02;05/01/2015 09:30:28;LOG\Mise à jour\Cosoluce N° Licence;LEPATRE Virginie;pas le bon numéro 2 eme case;;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;08/01/2015 11:00:28;;Clos;05/01/2015 09:31:16;LEPATRE Virginie;VL: regénération de la licence;1;téléphone;VIRGINIE;;;;185110;05/01/2015 09:31:16
+;SYNDICAT\SYND ELECTRIFICATION;HURTAUD Stéphanie;05.46.74.82.35;05/01/2015 09:42:20;LOG\Mise à jour\Cosoluce install majeure;BERNARD Aurélie;le SI a changé le serveur comment faire la maj;;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;08/01/2015 11:12:20;;Clos;05/01/2015 09:43:16;BERNARD Aurélie;aurél : tout simplement elle suit la doc.  Il doity avoir un bouton prit dans l'apparence du serveur qui ouvre le lecteur;1;téléphone;AURELIE;;;;185112;05/01/2015 09:43:16
+;S\SOULIGNONNES ;DRUGEON Nadine;05.46.93.94.14;05/01/2015 09:43:18;LOG\Environnement\COSOLUCE NUANCE;LEPATRE Virginie;problème de sauvegarde;;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;08/01/2015 11:13:18;;Clos;05/01/2015 09:44:29;LEPATRE Virginie;VL: regénrer tester;1;téléphone;VIRGINIE;;;;185113;05/01/2015 09:44:29
+;ST\ST MARTIN DE RE\Serv Ext/Port de Plaisance 3;RIVIERE Céline;05.46.09.26.69;05/01/2015 09:44:40;LOG\Système;LETOURNEUX Pierre;Elle rentre de vacances, sur son poste, elle a perdu des icônes et elle n'a plus accès au logiciel du port.;;1 - Simple;TECHNIQUE;ATNORMAL;08/01/2015 11:14:40;;Clos;05/01/2015 12:05:54;LETOURNEUX Pierre;"Sylvain, le 05/01 à 09h54 : elle se connecte bien avec sa session mais il n'y a plus certain icone et seaport ne fonctionne plus.
+
+Pierre 05/01 12H05:
+>> Elle se connecte avec sa session mais sur un autre poste
+>> Je lui indique qu'il faut remettre ses différents raccourci sur le bureau
+>> Pour Seaport, elle va les appeler
+>> Ok";1;téléphone;SYLVAIN;;CZC1204651;HP_ELITE_7200;185120;05/01/2015 12:05:55
+;P\PORTES EN RE (LES);VILLEDIER Nadège;05.46.29.11.53;05/01/2015 09:45:45;LOG\Mise à jour\Cosoluce install majeure;LETOURNEUX Pierre;problème ne peut pas faire la mise à jour sur le serveur;;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;08/01/2015 11:15:45;;Clos;05/01/2015 10:08:52;LETOURNEUX Pierre;"VL: passé à pierre
+
+Pierre 05/01 10H08:
+>> Lancement de la Màj 4.2 de Cyan mais sans passer par index.hta
+>> Màj réalisé avec succès
+>> Ok";1;téléphone;VIRGINIE;;;;185114;05/01/2015 10:08:52
+;L\LAGORD;MASSE Patrick;05.46.00.62.13;05/01/2015 09:47:08;LOG\Mise à jour\Cosoluce téléchargement SP;TOURNEUR Sylvain;C'est la société Ideline (0586077777 et demander grégory choix 1) qui nous tél pour signaler que la MAJ de coso c'est bien passé. Ce matin une personne qui était en vacances allume son poste et message erreur, plusieurs personnes ne peuvent pas se servir de coso. Il ne peut pas m'en dire plus donc il faut joindre lagord;Grand Site;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;08/01/2015 11:17:08;;Clos;05/01/2015 15:08:33;TOURNEUR Sylvain;"aurél : c'est la société ideline qui a fait la maj sur serveur et MR massé ne s'est pas si c passé sur les postes clients 
+14h51 : je tél a grégory qui est en ligne me rappelle
+Sylvain, le 05/01 à 15h07 : vu avec Virginie L. Il faut lencer le module utilisateur et ça refonctionne.";1;téléphone;AURELIE;;;;185115;05/01/2015 15:08:33
+3;C.C.A.S.\C.C.A.S. AYTRE;FICOT ;05.46.55.41.47;05/01/2015 09:48:05;MAT\U.C.;PALMIER_M Maxime;"Rappel le 6/01 à 9h08 car n'a pas été contacté
+écran bleu ce matin  Ficot 
++ problème onduleur sur serveur bouton rouge";Grand Site;1 - Simple;TECHNIQUE;ATNORMAL;08/01/2015 11:18:05;;Clos;02/02/2015 14:33:43;GRELARD Sophie;"VL: vidage électricité statique idem
+
+Pierre 06/01 09H30:
+>> Pas de voyant allumé sur le clavier (idem avec un autre clavier)
+
+Julien le 07/01 : retour du poste en atelier. Mise en place poste de prêt.
+Onduleur hors maintenance pour système téléphonie. La collectivité contacte la société Télécom
+
+Maxime 02/02 : relivraison du poste ";1;téléphone;VIRGINIE;;CZC2105X6N;HP_ELITE_7300;185117;02/02/2015 14:33:43
+;J\JARRIE (LA);FONTAINE Yolande--N'EST PAS A LA MAIRIE;05 46 66 45 64;05/01/2015 09:49:50;LOG\Mise à jour\Cosoluce install majeure;BERNARD Aurélie;"a l'allumage des postes ""MAJ de la base veuillez déconnecter tous les utilisateurs""";;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;08/01/2015 11:19:50;;Clos;05/01/2015 09:55:00;BERNARD Aurélie;aurél : la majeur n 'a pas été faite elle voit avec la mairie pour avoir le dvd;1;téléphone;AURELIE;;;;185118;05/01/2015 09:55:00
+;B\BUSSAC FORET;BARDOLLE Corinne;05.46.04.38.20;05/01/2015 09:50:35;LOG\Comptabilité\COSOLUCE CORAIL (compta)\PESV2\Production\Flux;BIBARD Alexandra;"Pouvez me recontacter rapidement concernant des modifications et transferts de fichiers suite à opération d'ordre bloquante
+
+ABI le 05/01 à 10h10 10h41: personne
+";;1 - Simple;LOGICIELS;ATNORMAL;08/01/2015 11:20:35;;Clos;05/01/2015 12:40:17;BIBARD Alexandra;"On reconstruit le lien grace à l'outil entre mandat et titre d'ordre
++mandatement amortissement exceptionnel (étude non suivi des travaux)";1;téléphone;SANDRINE;;;;185116;05/01/2015 12:40:17
+;D\DOUHET (LE);LANDOUAR Valérie Attention aux horaires;05.46.97.67.85;05/01/2015 09:55:17;LOG\Mise à jour\Cosoluce N° Licence;BERNARD Aurélie;"a l'ouverture de nuances message ""n° de licence""";;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;08/01/2015 11:25:17;;Clos;05/01/2015 09:56:18;BERNARD Aurélie;aurél : elle l'a avec la notice du dvd;1;téléphone;AURELIE;;;;185119;05/01/2015 09:56:18
+;F\FONTCOUVERTE;LACAULE Béatrice;05.46.93.06.47;05/01/2015 09:55:18;LOG\Administrés\COSOLUCE ELECTRA;LEPATRE Virginie;elle a radié un électeur qu'il ne fallait pas;;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;08/01/2015 11:25:18;;Clos;05/01/2015 09:57:14;LEPATRE Virginie;VL: enlever la date de radiation ok;1;téléphone;VIRGINIE;;;;185121;05/01/2015 09:57:14
+;ST\ST VAIZE;PELLADEAUD Nathalie;05.46.91.71.80;05/01/2015 09:56:51;LOG\Sauvegarde\COSOLUCE;LE NOUEN Julien;"Vous pouvez me contacter tous les jours de 8h à 12h et de 13h30 à 18h30 sauf le mardi et le jeusi après-midi
+En ouvrant ce matin Nuances (accueil coloris) j¿ai eu un message me demandant le nouveau numéro de licence
+Je n¿ai rien rempli et j¿ai fermé la fenêtre
+J¿ai ensuite lancé la mise à jour aucun souci
+Par contre quand je vais dans le logiciel Parme, Polychrome, Electra, Ambre et Corail, j¿ai un message « attention les sauvegardes automatiques ne s¿exécutent pas correctement veuillez contacter votre support technique »
+
+ 
+
+
+
+ ";;1 - Simple;TECHNIQUE;ATNORMAL;08/01/2015 11:26:51;;Clos;05/01/2015 15:53:03;LE NOUEN Julien;"jln le 05/01/2014 @15.52
+regeneration des sauvegardes 
++
+generation d'une nouvelle licence sur le site support
+cloture";1;mail;AURELIE;;;;185122;05/01/2015 15:53:03
+;S\SONNAC;LOUIS Julie;05 46 26 60 00;05/01/2015 09:57:17;LOG\Mise à jour\Cosoluce install majeure;TOURNEUR Sylvain;Elle n'arrive pas à faire la mise à jour cosoluce.;;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;08/01/2015 11:27:17;;Clos;05/01/2015 10:12:14;TOURNEUR Sylvain;Sylvain, le 05/01 à 10h11 : fait une réparation : ça fonctionne.;1;téléphone;SYLVAIN;;;;185131;05/01/2015 10:12:15
+;SITE INCONNU;AUTRE ;;05/01/2015 09:58:38;STANDARD;BERNARD Aurélie;ME TEIXEIRA - elle veut julie;;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;08/01/2015 11:28:38;;Clos;05/01/2015 10:00:40;BERNARD Aurélie;aurél : c'est pour un stage;1;téléphone;AURELIE;;;;185124;05/01/2015 10:00:40
+;S\SAINTES;DEGOS Jean-Marc;05.46.92.34.45;05/01/2015 09:58:48;STANDARD;LEPATRE Virginie;demande diane;Grand Site;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;08/01/2015 11:28:48;;Clos;05/01/2015 09:59:20;LEPATRE Virginie;VL: transféré à Diane;1;téléphone;VIRGINIE;;;;185123;05/01/2015 09:59:20
+;L\LOUZIGNAC;PILET Pascale;05.46.26.62.40;05/01/2015 10:01:06;LOG\Comptabilité\COSOLUCE CORAIL (compta)\PESV2\Production;LEPATRE Virginie;ne peut ajouter de fichier pour transmettre à la trésorerie;;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;08/01/2015 11:31:06;;Clos;05/01/2015 10:06:30;LEPATRE Virginie;VL: elle est en production donc passer par la passerelle et pas par pesos;1;téléphone;VIRGINIE;;;;185127;05/01/2015 10:06:30
+;V\VAUX SUR MER;QUINQUETTE Céline;05.46.23.53.06;05/01/2015 10:02:20;LOG\Comptabilité\COSOLUCE CORAIL (compta);BIBARD Alexandra;"Bonjour et bonne année 2015 à toute l'équipe
+
+J'ai vu que vous avez dû essayer de me joindre le vendredi 2 janvier mais j'étais en congés.
+
+Merci  de bien vouloir me permettre de re-créer l'exercice 2015.
+
+Cordialement
+céline quinquette";;1 - Simple;LOGICIELS;ATNORMAL;08/01/2015 11:32:20;;Clos;05/01/2015 10:08:30;BIBARD Alexandra;"doublon
+";1;mail;AURELIE;;;;185125;05/01/2015 10:08:30
+;D\DOMPIERRE SUR CHARENTE ;GUIBERT (PAS LE MERCREDI A.M) Sonia;09.61.31.86.37;05/01/2015 10:03:38;LOG\Sauvegarde\COSOLUCE;BERNARD Aurélie;"n'a pas signé son mail
+les sauvegardes ne s'effectuent pas correctement !
+
+";;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;08/01/2015 11:33:38;;Clos;06/01/2015 10:32:12;BERNARD Aurélie;aurél : doublon;1;mail;AURELIE;;;;185126;06/01/2015 10:32:12
+;F\FONTCOUVERTE;LACAULE Béatrice;05.46.93.06.47;05/01/2015 10:05:32;LOG\Administrés\COSOLUCE ELECTRA;BERNARD Aurélie;pour enregistrer deux jeunes nés en mars;;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;08/01/2015 11:35:32;;Clos;05/01/2015 10:07:07;BERNARD Aurélie;aurél : noter la date anniversaire;1;téléphone;AURELIE;;;;185128;05/01/2015 10:07:07
+;SITE INCONNU;AUTRE ;;05/01/2015 10:07:34;STANDARD;LEPATRE Virginie;sfr busness team demande la compta fournisseur;;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;08/01/2015 11:37:34;;Clos;05/01/2015 10:09:11;LEPATRE Virginie;VL: passé à magali;1;téléphone;VIRGINIE;;;;185129;05/01/2015 10:09:12
+;P\PERIGNY;FRUCHARD Charles;05.46.44.96.99;05/01/2015 10:07:38;MAT\Périph.\RESEAU;LE NOUEN Julien;"1er rappel
+tél sur la LD - ils ont malencontreusement enregistré un dossier qui était nomé 2014 sur le serveur en 2015 - avec les sauvegardes peut on le récup";Grand Site;1 - Simple;TECHNIQUE;ATNORMAL;08/01/2015 11:37:38;;Clos;05/01/2015 15:38:32;LE NOUEN Julien;document restauré a partir de la sauvegarde sur nasext.;1;téléphone;AURELIE;;;;185130;05/01/2015 15:38:32
+;J\JARRIE (LA);RIVIER Annick;05 46 68 43 70;05/01/2015 10:09:51;LOG\Mise à jour\Cosoluce install majeure;BERNARD Aurélie;pour faire la maj il demande que le poste secrétariat ferme les logiciels mais elle ne sait pas lequel;;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;08/01/2015 11:39:51;;Clos;05/01/2015 10:21:41;BERNARD Aurélie;"aurél : je lui explique de faire un clic droit sur ""ordinateur"" propriété et de voir le nom ";1;téléphone;AURELIE;;;;185133;05/01/2015 10:21:41
+;SYNDICAT\SYND MIXTE DE LA MOBILITE DURABLE (DISSOLUTION EN 2017);DROUET-GUERCHET Angélique;05.46.50.93.94;05/01/2015 10:16:58;LOG\Comptabilité\COSOLUCE CORAIL (compta);BIBARD Alexandra;"Elle n'a pas, dans l'onglet dépense, la rubrique ""bon de commande"", pour l'année 2015.";;1 - Simple;LOGICIELS;ATNORMAL;08/01/2015 11:46:58;;Clos;05/01/2015 10:51:49;BIBARD Alexandra;"a bien créé son exercice par le menu fin d'année
+Environnement /gestion des collectivités/onglet réglage : doit cocher gerer BDC +engager BDC";1;téléphone;SYLVAIN;;;;185132;05/01/2015 10:51:50
+;A\ANGLIERS;CHEVALIER Cynthia;05.46.37.57.69;05/01/2015 10:18:56;LOG\Mise à jour\Cosoluce install majeure;TOURNEUR Sylvain;Elle a un message indiquant un problème avec la sauvegarde.;;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;08/01/2015 11:48:56;;Clos;05/01/2015 10:35:26;TOURNEUR Sylvain;Sylvain, le 05/01 à 10h33 : regénération sauvegarde.;1;téléphone;SYLVAIN;;;;185137;05/01/2015 10:35:26
+;G\GERMIGNAC;BARTHELEMY Jocelyne;05.46.49.13.66;05/01/2015 10:21:55;LOG\Mise à jour\Cosoluce N° Licence;BERNARD Aurélie;2ème zone ;;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;08/01/2015 11:51:55;;Clos;05/01/2015 10:24:49;BERNARD Aurélie;aurél : je génére ;1;téléphone;AURELIE;;;;185134;05/01/2015 10:24:49
+;P\PERIGNY;FRUCHARD Charles;05.46.44.96.99;05/01/2015 10:21:59;LOG\Environnement\COSOLUCE NUANCE;LEPATRE Virginie;ne peut pas ouvrir nuances d'un poste client dit que serveur appli ouvert;Grand Site;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;08/01/2015 11:51:59;;Clos;05/01/2015 10:35:00;LEPATRE Virginie;VL: comprend pas, je fait les mises à jour sur le serveur pareil, j'ouvre utilisateur et la ca débloque tout. bizarre dit à joel;1;téléphone;VIRGINIE;;;;185136;05/01/2015 10:35:00
+;M\MEDIS;POULET Flavia;05.46.05.16.01;05/01/2015 10:26:01;LOG\Administrés\COSOLUCE CYAN (Etat Civil);BERNARD Aurélie;elle n'a pas cloturer son registre 2014 elle est en attente d'un testament suite décés;;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;08/01/2015 11:56:01;;Clos;05/01/2015 10:28:56;BERNARD Aurélie;aurél : on changera la date système elle nous tél quand elle a les papiers;1;téléphone;AURELIE;;;;185135;05/01/2015 10:28:56
+;C\COUARDE SUR MER (LA);FALCHI Josiane;05.46.29.99.67;05/01/2015 10:29:27;LOG\Administrés\COSOLUCE ELECTRA;BERNARD Aurélie;"veut inscrire un electeur sauf que ""erreur n° 2147....l'instruction inser et en contrainte""";;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;08/01/2015 11:59:27;;Clos;05/01/2015 10:43:37;BERNARD Aurélie;aurél : on le resaisit ok je lui conseille de passer par la touche TAB;1;téléphone;AURELIE;;;;185139;05/01/2015 10:43:37
+;M\MONTILS;MERIT Joëlle;05.46.96.42.38;05/01/2015 10:35:38;LOG\Sauvegarde;LEPATRE Virginie;problème sauvegarde automatique de cosoluce;;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;08/01/2015 12:05:38;;Clos;05/01/2015 10:37:41;LEPATRE Virginie;VL: regénérer tester;1;téléphone;VIRGINIE;;;;185138;05/01/2015 10:37:41
+;SIVOM/SIVOS/SIVU\SIVOS BENON/FERRIERES;GUIMARD Antoinette;05.46.68.01.16;05/01/2015 10:39:30;LOG\Mise à jour\Cosoluce téléchargement SP;LEPATRE Virginie;mauve tourne en rond;;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;08/01/2015 12:09:30;;Clos;05/01/2015 10:44:02;LEPATRE Virginie;VL: faire la mise à jour depuis nuances;1;téléphone;VIRGINIE;;;;185140;05/01/2015 10:44:02
+;B\BOIS PLAGE EN RE (LE);BRUGIER Camille;05.46.09.23.11;05/01/2015 10:39:56;MAT\Périph.\RESEAU;TOURNEUR Sylvain;La PM déménage cette semaine, intervention prévu jeudi. Dans chaque bureau, il y a qu'une seule prise réseau.;;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;08/01/2015 12:09:56;;Clos;05/01/2015 10:47:59;TOURNEUR Sylvain;Sylvain, le 05/01 à 10h46 : laisser message tél à Julien et envoi mail.;1;téléphone;SYLVAIN;;;;185146;05/01/2015 10:47:59
+;ST\ST FORT SUR GIRONDE;POUPELAIN Stéphanie;05.46.49.95.60;05/01/2015 10:45:13;LOG\Mise à jour\Cosoluce N° Licence;TOURNEUR Sylvain;n'a pas laissé son nom - Le numéro de licence envoyé avec le cd de mise à jour ne fonctionne pas comme en 2014 ? ;;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;08/01/2015 12:15:13;;Clos;05/01/2015 15:49:32;TOURNEUR Sylvain;Sylvain, le 05/01 à 15h46 : regénération de la licence via le site cosoluce.;1;mail;AURELIE;;;;185141;05/01/2015 15:49:32
+;SIVOM/SIVOS/SIVU\SIVOS BENON/FERRIERES;GUIMARD Antoinette;05.46.68.01.16;05/01/2015 10:45:32;LOG\Mise à jour\Cosoluce téléchargement SP;LEPATRE Virginie;mauve tourne en rond;;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;08/01/2015 12:15:32;;Clos;05/01/2015 11:09:54;LEPATRE Virginie;VL: faire la mise à jour depuis nuances;1;téléphone;VIRGINIE;;;;185142;05/01/2015 11:09:54
+;SIVOM/SIVOS/SIVU\SIVOS BENON/FERRIERES;GUIMARD Antoinette;05.46.68.01.16;05/01/2015 10:46:07;LOG\Sauvegarde;LEPATRE Virginie;problème sauvegarde auto cosoluce;;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;08/01/2015 12:16:07;;Clos;05/01/2015 10:46:38;LEPATRE Virginie;VL: regénérer tester;1;téléphone;VIRGINIE;;;;185143;05/01/2015 10:46:38
+;Y\YVES;TAILLANDIER Séverine;05.46.56.18.02;05/01/2015 10:46:21;LOG\Mise à jour\Cosoluce N° Licence;BERNARD Aurélie;"Je n'arrive pas à saisir le numéro de licence coloris en suivant la procédure. On m'indique ""Le n° de licence que vous souhaitez valider
+correspond à celui qui est déjà enregistré. Veuillez en saisir un nouveau."" Merci de m'indiquer la marche à suivre car je suis bloquée au niveau
+cosoluce.";;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;08/01/2015 12:16:21;;Clos;05/01/2015 10:47:15;BERNARD Aurélie;"En fait tout va bien, j'ai essayé de retourner en compta et ça fonctionne.
+Désolée pour le dérangement.
+Cordialement.";1;mail;AURELIE;;;;185144;05/01/2015 10:47:15
+;Y\YVES;TAILLANDIER Séverine;05.46.56.18.02;05/01/2015 10:47:24;STANDARD;BERNARD Aurélie;"En fait tout va bien, j'ai essayé de retourner en compta et ça fonctionne.
+Désolée pour le dérangement.
+Cordialement.";;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;08/01/2015 12:17:24;;Clos;05/01/2015 10:47:47;BERNARD Aurélie;aurél : complément d'infos;1;mail;AURELIE;;;;185145;05/01/2015 10:47:47
+;B\BEURLAY ;BILLIE Nicole;05.46.95.62.09;05/01/2015 10:48:15;LOG\Comptabilité\COSOLUCE CORAIL (compta);PEREIRA Sandrine;"Je voudrai annuler des mandats, non validés, car la banque n'est pas conforme
+Merci de bien vouloir m'aider rapidement ";;1 - Simple;LOGICIELS;ATNORMAL;08/01/2015 12:18:15;;Clos;05/01/2015 16:26:07;PEREIRA Sandrine;c'est dépannée;1;mail;AURELIE;;;;185147;05/01/2015 16:26:07
+;ST\ST MAIGRIN;TEXIER Nicole;05.46.70.00.34;05/01/2015 10:48:25;LOG\Facturation\COSOLUCE FLUO;NOBLETZ Olivier;Elle a un soucis avec le transfert des titres, la trésorerie lui indique que dans les titres, les références bancaires n'ont pas été transférer.;;1 - Simple;LOGICIELS;ATNORMAL;08/01/2015 12:18:25;;Clos;05/01/2015 14:40:19;NOBLETZ Olivier;Resaisie des references bancaires directement au niveau des titres;1;téléphone;SYLVAIN;;;;185149;05/01/2015 14:40:19
+2;A\ANGOULINS SUR MER;MICHAUD Maryline;05.46.56.61.41;05/01/2015 10:48:57;LOG\Personnel\COSOLUCE PARME;LEPATRE Virginie;"Problème rencontré dans « PARME » :
+1 fiche de paie pas calculée ou pas mandatée - alors que toutes les paies ont été validées et mandatées sur décembre  ¿..
+Merci de me contacter avant mise en historique .";;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;08/01/2015 12:18:57;;Clos;08/01/2015 15:48:38;LEPATRE Virginie;VL: elle a vérifié le journal de paie, le montant de la fiche est correcte. Mise en historique ok. Elle me rappelle si souci;1;mail;AURELIE;;;;185148;08/01/2015 15:48:38
+;Y\YVES;TAILLANDIER Séverine;05.46.56.18.02;05/01/2015 10:49:41;LOG\Sauvegarde\COSOLUCE;LETOURNEUX Pierre;"Un nouveau message s'affiche quand je veux allez dans cosoluce : ""Les sauvegardes automatiques ne s'exécutent pas correctement.
+Veuillez contacter votre support technique.""
+Merci de m'indiquer la marche à suivre.
+Cordialement.";;1 - Simple;TECHNIQUE;ATNORMAL;08/01/2015 12:19:41;;Clos;05/01/2015 14:22:34;LETOURNEUX Pierre;"Pierre 05/01 14H22:
+>> Je lui indique comment regénérer/tester les sauvegardes
+>> Ok";1;mail;AURELIE;;;;185150;05/01/2015 14:22:34
+;M\MATHA;BENOIT Béatrice;05.46.58.50.64;05/01/2015 10:50:38;LOG\Mise à jour\Cosoluce téléchargement SP;LEPATRE Virginie;la mise à jour de mauve tourne en rond;;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;08/01/2015 12:20:38;;Clos;05/01/2015 10:53:36;LEPATRE Virginie;VL: la faire depuis nuances;1;téléphone;VIRGINIE;;;;185154;05/01/2015 10:53:36
+;M\MORNAC SUR SEUDRE;BERTHOMME Christine;05.46.22.75.13;05/01/2015 10:50:47;LOG\Administrés\COSOLUCE POLYCHROME (popu);LEPATRE Virginie;"Petit problème pour l'envoi des fichiers de recensement militaire.
+Je n'ai plus comme avant Ax Crypt et le code à mettre.
+Comment fais-je ? ";;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;08/01/2015 12:20:47;;Clos;05/01/2015 13:21:08;LEPATRE Virginie;DOUBLON;1;mail;AURELIE;;;;185151;05/01/2015 13:21:08
+;D\DOMPIERRE SUR CHARENTE ;GUIBERT (PAS LE MERCREDI A.M) Sonia;09.61.31.86.37;05/01/2015 10:51:33;LOG\Sauvegarde\COSOLUCE;LETOURNEUX Pierre;"n'a pas laissé son nom
+les sauvegardes ne n'exécutent pas correctement  que ce soit sur le poste principal (maître) ou le 2nd, sur n'importe quel logiciel !
+
+Merci par avance de votre aide.
+Cordialement. ";;1 - Simple;TECHNIQUE;ATNORMAL;08/01/2015 12:21:33;;Clos;05/01/2015 14:13:14;LETOURNEUX Pierre;"Pierre 05/01 14H11:
+>> Je lui indique comment regénérer les sauvegardes
+>> Ok";1;mail;AURELIE;;;;185152;05/01/2015 14:13:14
+;C.D.A./C.D.C.\CDC ILE DE RE;DELAMARCHE Florence;05.46.66.56.64;05/01/2015 10:52:30;INTERNET\Ged&on\Création/suppression de comptes;EDLICH Michael;"Le 29/12/2014 10:11, Florence Delamarche a écrit :
+> Bonjour Michael,
+>
+> Merci de bien vouloir créer un nouvel utilisateur dans Gédéon
+>
+> Guillaume BARNY
+> guillaume.barny@cc-iledere.fr
+> Directeur du service Economie - Tourisme
+>
+> En te remerciant,
+> Cordialement, ";;1 - Simple;DOC.ELEC.;ATNORMAL;08/01/2015 12:22:30;;Clos;05/01/2015 10:55:20;EDLICH Michael;"Bonjour Florence,
+
+Tout d'abord mes meilleurs v¿ux pour cette nouvelle année !
+
+L'utilisateur a été créé (cf pièce jointe).
+
+Je vous laisse, avec le compte admincc-re, faire les opérations suivantes :
+ - ajout l'utilisateur dans les groupes souhaités (il est déjà dans Agents et Tous)
+ - ajuster les droits de son calendrier
+
+A très bientôt,
+
+Michael.
+";1;mail;ME;;;;185155;05/01/2015 10:55:20
+;P\PUY DU LAC;MAHOT Béatrice;09.77.08.14.57;05/01/2015 10:52:56;LOG\Sauvegarde\COSOLUCE;BERNARD Aurélie;"Meilleurs v¿ux pour la nouvelle année 2015 !
+J'ai eu un message comme quoi il fallait que je joigne le support technique parce que les mises à jour automatiques ne se faisaient pas correctement. ";;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;08/01/2015 12:22:56;;Clos;05/01/2015 16:26:58;BERNARD Aurélie;aurél : fait ;1;mail;AURELIE;;;;185153;05/01/2015 16:26:58
+;SYNDICAT\SYND ELECTRIFICATION;OLIVIER Dominique;05.46.74.82.27;05/01/2015 10:54:13;LOG\Mise à jour\Cosoluce install majeure;LETOURNEUX Pierre;"Rappel le 05/01 à 14h20
+personne au sdeer n'est habilité a toucher le serveur signale MR OLIVIER il veut etre assisté par le SI pour installe";;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;08/01/2015 12:24:13;;Clos;05/01/2015 17:02:58;LETOURNEUX Pierre;"VL: passé à joel
+
+Pierre 05/01 16H48:
+>> Installation réalisé avec succès sur le serveur
+>> Installation sur quelques poste client
+>> Ok
+";1;téléphone;AURELIE;;;;185156;05/01/2015 17:02:58
+;M\MEDIS;DUZON François;05 46 05 39 59;05/01/2015 10:59:28;MAT\Périph.\RESEAU;BOCENNO Patrice;"06 12 97 45 79
+Suite à l'appel 184920, ils ont reçu un mail de SFR indiquant que le redirection a été effectué.
+";;1 - Simple;TECHNIQUE;ATNORMAL;08/01/2015 12:29:28;;Clos;07/01/2015 11:52:50;BOCENNO Patrice;"il me rappel quand il est au bureau
+c'est bon tse fonctionnel
+OK";1;téléphone;SYLVAIN;;;;185157;07/01/2015 11:52:50
+;G\GUE D'ALLERE (LE);GUILLAUT Annaïg;05.46.68.20.29;05/01/2015 10:59:49;LOG\Administrés\COSOLUCE CYAN (Etat Civil);BERNARD Aurélie;pb a la génération de l'acte;;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;08/01/2015 12:29:49;;Clos;05/01/2015 11:02:43;BERNARD Aurélie;aurél : pb connu par coso - en attendant nouveau sp elle modifie le corps de l'acte;1;téléphone;AURELIE;;;;185158;05/01/2015 11:02:43
+;L\LUCHAT;DEMONEIN Emmanuelle;05 46 94 82 13;05/01/2015 11:00:56;LOG\Mise à jour\Cosoluce N° Licence;TOURNEUR Sylvain;Un message indique un problème sur la 2ème zone.;;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;08/01/2015 14:00:56;;Clos;05/01/2015 11:04:19;TOURNEUR Sylvain;Sylvain, le 05/01 à 11h03 : regénération de la licence via le site support de cosoluce.;1;téléphone;SYLVAIN;;;;185160;05/01/2015 11:04:19
+;N\NIEULLE SUR SEUDRE;DESPREZ Audrey;05.46.85.12.04;05/01/2015 11:03:21;LOG\Mise à jour\Cosoluce install majeure;LETOURNEUX Pierre;"Pouvez-vous m'indiquer si la mise à jour est a effectuer sur les deux postes de la mairie ou si elle doit être faite que sur l'ordinateur principal.
+Cordialement
+C.Chevalier ";;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;08/01/2015 14:03:21;;Clos;05/01/2015 14:08:30;LETOURNEUX Pierre;"Pierre 05/01 14H07:
+>> Je lui indique de faire la Màj sur tout les poste équipés de Cosoluce
+>> Ok";1;mail;AURELIE;;;;185159;05/01/2015 14:08:30
+;B\BALLANS;BRUAND Yasmine;05.46.26.62.84;05/01/2015 11:03:50;LOG\Mise à jour\Cosoluce N° Licence;BERNARD Aurélie;2ème zone;;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;08/01/2015 14:03:50;;Clos;05/01/2015 11:05:50;BERNARD Aurélie;aurél   je génére;1;téléphone;AURELIE;;;;185161;05/01/2015 11:05:50
+;A\ALLAS BOCAGE;GABILLAUD Nelly;05.46.48.24.88;05/01/2015 11:04:40;LOG\Mise à jour\Cosoluce install majeure;TOURNEUR Sylvain;"Begon Angélique.
+Elle ne peut lancer nuance depuis la mise à jour.";;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;08/01/2015 14:04:40;;Clos;05/01/2015 11:15:49;TOURNEUR Sylvain;Sylvain, le 05/01 à 11h15 : réparation de cosoluce : ça refonctionne.;1;téléphone;SYLVAIN;;;;185163;05/01/2015 11:15:49
+;P\PISANY;RAPET Audrey;05 46 94 80 20;05/01/2015 11:07:55;LOG\Comptabilité\COSOLUCE CORAIL (compta);BERNARD Aurélie;"Je vous souhaite une bonne et heureuse année 2015.
+Sur un bordereau de mandats en retour de la trésorerie, j'ai eu un mandat rayé, comment le traiter c'est une annulation ou un rejet  ?
+
+Je vous remercie
+Cordialement,
+Mairie de Pisany";;1 - Simple;CENTRE D'ASSISTANCE;ATNORMAL;08/01/2015 14:07:55;;Clos;05/01/2015 11:10:43;BERNARD Aurélie;"J'ai oublié de vous donner la réponse, pour le cas où : c'est un rejet si le mandat est rayé sur le bordereau.
+Françoise
+
+je transfert a la dame par mail";1;mail;AURELIE;;;;185162;05/01/2015 11:10:43
